@@ -1,10 +1,10 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: webserver
+  name: nginx
 spec:
   containers:
   - name: webserver
-    image: nginx:latest
+    image: docker.io/nginx:latest
     ports:
     - containerPort: 80
