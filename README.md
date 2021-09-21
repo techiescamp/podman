@@ -1,8 +1,11 @@
 # Podman Tutorial Repository
 
-1.Tutorial Documentation: https://devopscube.com/podman-tutorials/  
-2.Official Website: https://podman.io/  
-3.Open Source Github repo: https://github.com/containers/podman 
+Tutorial Documentation: https://devopscube.com/podman-tutorials/  
+
+## Official Resources:
+
+1.Official Website: https://podman.io/  
+2.Open Source Github repo: https://github.com/containers/podman 
 
 ## Other Useful Podman Rererences:
 
