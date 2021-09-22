@@ -2,6 +2,10 @@
 
 Tutorial Documentation: https://devopscube.com/podman-tutorials/  
 
+## Vagrantfile With Podman
+
+The repo contains a Vagrantfile which you can use to learn and test podman. Podman and runc get installed when you bring up the vagrant VM. It uses an ubuntu 20.10 base image.
+
 ## Official Resources:
 
 1. Official Website: https://podman.io/  
