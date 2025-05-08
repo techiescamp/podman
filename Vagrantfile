@@ -7,7 +7,7 @@ Vagrant.configure("2") do |config|
     SHELL
     
     config.vm.define "podman" do |podman|
-      podman.vm.box = "bento/ubuntu-20.10"
+      podman.vm.box = "bento/ubuntu-24.04"
       podman.vm.hostname = "podman"
       podman.vm.network "private_network", ip: "10.0.0.11"
       podman.vm.provider "virtualbox" do |vb|
